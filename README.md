@@ -14,22 +14,21 @@ Installation:
 
     git clone https://github.com/MEHULSIRVI/EmployeeTaskManager.git
 
-    Use code with caution.
 
 Navigate to the project directory:
-cd EmployeeTaskManager
+    
+    cd EmployeeTaskManager
 
 
 Install dependencies:
 
-npm install
+    npm install
 
 Running the Development Server
 
-npm run dev
+    npm run dev
 
-Features
-
+Features:
     User Authentication:
         Predefined users (admin and employees)
         Secure login with password protection
@@ -43,7 +42,6 @@ Features
         Mark tasks as completed or failed
 
 Technologies Used
-
     React: A JavaScript library for building user interfaces.
     Vite: A modern frontend build tool.
     localStorage: For local data storage.
