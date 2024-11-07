@@ -12,7 +12,7 @@ Installation:
     Clone the repository:
     Bash
 
-    git clone https://github.com/your-username/employee-task-manager.git
+    git clone https://github.com/MEHULSIRVI/EmployeeTaskManager.git
 
     Use code with caution.
 
