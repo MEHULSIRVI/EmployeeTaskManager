@@ -17,30 +17,22 @@ Installation:
     Use code with caution.
 
 Navigate to the project directory:
-Bash
+cd EmployeeTaskManager
 
-cd employee-task-manager
 
-Use code with caution.
 Install dependencies:
-Bash
 
 npm install
 
-Use code with caution.
-
 Running the Development Server
-Bash
 
 npm run dev
 
-Use code with caution.
-
-This will start a development server and open the app in your default browser.
 Features
 
     User Authentication:
         Predefined users (admin and employees)
+        Secure login with password protection
     Admin Dashboard:
         Create new tasks
         Assign tasks to employees
@@ -56,5 +48,3 @@ Technologies Used
     Vite: A modern frontend build tool.
     localStorage: For local data storage.
     CSS: For styling the application.
-
-
